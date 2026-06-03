@@ -82,6 +82,9 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 | [creator-platform](https://github.com/pranay123-stack/creator-platform) | CreatorHub - Content creator platform (React) |
 | [hiremi-lease-flow](https://github.com/pranay123-stack/hiremi-lease-flow) | Lease activation flow backend (Go + Chi + PostgreSQL) |
 
+## App Development
+*Coming soon*
+
 ## Shopify Development
 *Coming soon*
 
