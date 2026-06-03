@@ -102,3 +102,12 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 
 ## OTT and Film Story
 *Coming soon*
+
+## Hackathons
+*Coming soon*
+
+## Grants - Web3 and AI
+*Coming soon*
+
+## Coding Profile
+*Coming soon*
