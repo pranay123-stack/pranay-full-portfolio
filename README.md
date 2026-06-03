@@ -31,12 +31,6 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 | Repo | Description |
 |------|-------------|
 | [crypto-investment-management-portfolio-ai-system](https://github.com/pranay123-stack/crypto-investment-management-portfolio-ai-system) | AI-powered crypto portfolio management (LSTM, RL, sentiment) |
-| [polymarket-hft-arbitrage](https://github.com/pranay123-stack/polymarket-hft-arbitrage) | Polymarket HFT arbitrage engine (Rust) |
-
-## AI Engineering
-| Repo | Description |
-|------|-------------|
-| [nba-prediction-edge](https://github.com/pranay123-stack/nba-prediction-edge) | Multi-signal NBA prediction market automation for Polymarket |
 
 ## Web3 Blockchain Engineering
 | Repo | Description |
@@ -59,23 +53,31 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 | [nft-projects](https://github.com/pranay123-stack/nft-projects) | ERC-721/1155/6551, marketplaces, dynamic NFTs |
 | [socialfi-projects](https://github.com/pranay123-stack/socialfi-projects) | Social graphs, creator tokens, content monetization |
 
-## DeFi Trading Strategy
+## Memecoin Trading Strategy
 | Repo | Description |
 |------|-------------|
 | [memecoin-projects](https://github.com/pranay123-stack/memecoin-projects) | Bonding curve launchpads, sniper bots, anti-rug tools |
+
+## Prediction Market Trading Strategy
+| Repo | Description |
+|------|-------------|
+| [polymarket-hft-arbitrage](https://github.com/pranay123-stack/polymarket-hft-arbitrage) | Polymarket HFT arbitrage engine (Rust) |
+| [nba-prediction-edge](https://github.com/pranay123-stack/nba-prediction-edge) | Multi-signal NBA prediction market automation for Polymarket |
+| [prediction-market-projects](https://github.com/pranay123-stack/prediction-market-projects) | LMSR/CPMM pricing, oracle resolution, prediction markets |
 
 ## Sports Quant Trading
 | Repo | Description |
 |------|-------------|
 | [Smarkets_Sports_Quant_Trading](https://github.com/pranay123-stack/Smarkets_Sports_Quant_Trading) | Quantitative trading strategies for Smarkets exchange |
 
-## Gambling Strategy
-| Repo | Description |
-|------|-------------|
-| [prediction-market-projects](https://github.com/pranay123-stack/prediction-market-projects) | LMSR/CPMM pricing, oracle resolution, prediction markets |
-
 ## Web Development
 | Repo | Description |
 |------|-------------|
 | [creator-platform](https://github.com/pranay123-stack/creator-platform) | CreatorHub - Content creator platform (React) |
 | [hiremi-lease-flow](https://github.com/pranay123-stack/hiremi-lease-flow) | Lease activation flow backend (Go + Chi + PostgreSQL) |
+
+## Shopify Development
+*Coming soon*
+
+## WordPress Development
+*Coming soon*
