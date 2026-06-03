@@ -120,3 +120,6 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 
 ## Coding Profile
 *Coming soon*
+
+## Social Service Projects for Recognition
+*Coming soon*
