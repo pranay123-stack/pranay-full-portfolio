@@ -53,6 +53,9 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 | [nft-projects](https://github.com/pranay123-stack/nft-projects) | ERC-721/1155/6551, marketplaces, dynamic NFTs |
 | [socialfi-projects](https://github.com/pranay123-stack/socialfi-projects) | Social graphs, creator tokens, content monetization |
 
+## Crypto Marketing
+*Coming soon*
+
 ## Crypto Exchange Infra, Tools, Liquidation and Marketing
 *Coming soon*
 
