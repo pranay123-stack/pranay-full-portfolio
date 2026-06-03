@@ -42,7 +42,7 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 | [chainlink-community-tools](https://github.com/pranay123-stack/chainlink-community-tools) | Chainlink CCIP, Price Feed, VRF, Automation tools |
 | [web3-gaming-projects](https://github.com/pranay123-stack/web3-gaming-projects) | Blockchain gaming, NFT economies, Play-to-Earn |
 
-## DeFi Development
+## DeFi App, Infra and Strategy
 | Repo | Description |
 |------|-------------|
 | [defi-projects](https://github.com/pranay123-stack/defi-projects) | AMMs, lending, yield vaults, flash loans, derivatives |
