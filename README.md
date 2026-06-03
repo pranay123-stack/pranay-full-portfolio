@@ -81,3 +81,15 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 
 ## WordPress Development
 *Coming soon*
+
+## Game Development
+*Coming soon*
+
+## Social Media Management
+*Coming soon*
+
+## AI Filmmaking
+*Coming soon*
+
+## OTT and Film Story
+*Coming soon*
