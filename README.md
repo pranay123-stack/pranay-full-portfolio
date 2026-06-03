@@ -82,6 +82,9 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 ## WordPress Development
 *Coming soon*
 
+## Airdrop Hunting
+*Coming soon*
+
 ## Game Development
 *Coming soon*
 
