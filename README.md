@@ -82,6 +82,9 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 ## WordPress Development
 *Coming soon*
 
+## AI LLM Engineering
+*Coming soon*
+
 ## Airdrop Hunting
 *Coming soon*
 
