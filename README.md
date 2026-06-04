@@ -1,8 +1,8 @@
-# Hi, I'm Pranay
+# Pranay Full Portfolio
 
 **HFT Developer | Algo Trader | Web3 Engineer | AI Builder**
 
-Building high-frequency trading systems, quantitative strategies, and decentralized finance protocols.
+Building high-frequency trading systems, quantitative strategies, decentralized finance protocols, and more.
 
 ---
 
