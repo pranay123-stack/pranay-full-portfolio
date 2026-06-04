@@ -113,7 +113,9 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 *Coming soon*
 
 ## Hackathons
-*Coming soon*
+| Repo | Description |
+|------|-------------|
+| [Hackathons/Dorahacks](https://github.com/pranay123-stack/Hackathons/tree/main/Dorahacks) | NBA prediction market automation for Polymarket (DoraHacks) |
 
 ## Grants - Web3 and AI
 *Coming soon*
