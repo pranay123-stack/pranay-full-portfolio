@@ -124,4 +124,6 @@ Building high-frequency trading systems, quantitative strategies, and decentrali
 *Coming soon*
 
 ## Social Service Projects for Recognition
-*Coming soon*
+| Repo | Description |
+|------|-------------|
+| [bihar-jan-suraksha](https://github.com/pranay123-stack/Social-Service-Projects-for-Recognition/tree/main/bihar-jan-suraksha) | Bihar Jan Suraksha - civic safety & complaint platform |
