@@ -6,10 +6,10 @@ built versus specified.
 
 | Portfolio | Focus |
 |---|---|
-| [Low-Latency Execution Systems](https://github.com/pranay123-stack/low-latency-execution-systems) | Rust + C++20 execution engines, order books, venue adapters |
+| [Crypto Exchange Development](https://github.com/pranay123-stack/crypto-exchange-development) | Rust + C++20 execution engines, order books, venue adapters |
 | [Prediction Market Systems](https://github.com/pranay123-stack/prediction-market-systems) | Polymarket research, copy trading, onchain settlement |
-| [Onchain Protocol Engineering](https://github.com/pranay123-stack/onchain-protocol-engineering) | Deployed contracts, onchain agents, x402 payments |
-| [Quant Strategy Research](https://github.com/pranay123-stack/quant-strategy-research) | Pine v6 strategies, backtest research with input data |
+| [Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure) | Deployed contracts, onchain agents, x402 payments |
+| [Quant Strategy Research](https://github.com/pranay123-stack/crypto-trading-strategies) | Pine v6 strategies, backtest research with input data |
 | [Full-Stack Product Engineering](https://github.com/pranay123-stack/fullstack-product-engineering) | Commerce backends, client sites, Go services |
 
 **Complete map of every repository:** [PORTFOLIO-MAP.md](https://github.com/pranay123-stack/pranay123-stack/blob/main/PORTFOLIO-MAP.md)
