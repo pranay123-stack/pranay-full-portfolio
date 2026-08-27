@@ -7,7 +7,7 @@ built versus specified.
 | Portfolio | Focus |
 |---|---|
 | [Crypto Exchange Development](https://github.com/pranay123-stack/crypto-exchange-development) | Rust + C++20 execution engines, order books, venue adapters |
-| [Prediction Market Systems](https://github.com/pranay123-stack/prediction-market-systems) | Polymarket research, copy trading, onchain settlement |
+| [Prediction Market Algorithmic Trading](https://github.com/pranay123-stack/prediction-market-algorithmic-trading) | Polymarket research, copy trading, onchain settlement |
 | [Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure) | Deployed contracts, onchain agents, x402 payments |
 | [Quant Strategy Research](https://github.com/pranay123-stack/crypto-trading-strategies) | Pine v6 strategies, backtest research with input data |
 | [Full-Stack Product Engineering](https://github.com/pranay123-stack/fullstack-product-engineering) | Commerce backends, client sites, Go services |
